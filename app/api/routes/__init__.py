@@ -1,0 +1,1 @@
+"""Rotas agrupadas por responsabilidade."""
